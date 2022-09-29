@@ -1,0 +1,1 @@
+console.log("William Whewell once said ,\"Every failure is a step to success.\"");
